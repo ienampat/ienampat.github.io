@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ienampat.github.io/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/app/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/assets/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/css/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/includes/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/item/ienampat.txt.gz
+Sitemap: https://ienampat.github.io/src/ienampat.txt.gz
